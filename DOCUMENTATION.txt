@@ -1,0 +1,12 @@
+KBC
+
+#first set the idle to start the program directly and not in edit mode as the program requires multiple gui!!
+#the program starts with a sound so its recommended to remove mp3 player from loop for best experience
+
+
+* the first page consist of 3 options 
+	Winners(show name of those who answered all 5 ques correctly)
+	play(starts the game)
+	quit(closes program)
+*play
+	the game consist of 5 ques related to programming and to win the game one must ans all the question correctly and  if any ans is incorrect the game is terminated at that very point with a message "GAME OVER" else if you ans each one correctly after answering the fifth ques you get the msg that "You are the new winner of kbc" 
